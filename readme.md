@@ -1,3 +1,5 @@
+ES 1 TEAM 1
+
 PROBLEMA: Fare la spesa seguendo una lista
 
 1 - Prendere la lista della spesa
