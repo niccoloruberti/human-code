@@ -24,15 +24,15 @@ PROBLEMA: Fare la spesa seguendo una lista
 
 10 - Inserire i prodotti nel carrello
 
-11 - ? SE le crocchette sono presenti nel carrello
+11 - ? SE tutti i prodotti della lista sono presenti nel carrello
 
-    11.1 - ? SE tutti i prodotti della lista sono presenti nel carrello
+    11.1 - ? SE le crocchette sono presenti nel carrello
 
         11.1.1 - Andare in cassa
 
-    11.2 - ALTRIMENTI: Cercare prodotti della lista mancanti
+    11.2 - ALTRIMENTI: Cerca le crocchette per Ricky
 
-12 - ALTRIMENTI: Cerca le crocchette per Ricky
+12 - ALTRIMENTI: Cercare prodotti della lista mancanti
 
 13 - Usare il coupon in cassa
 
